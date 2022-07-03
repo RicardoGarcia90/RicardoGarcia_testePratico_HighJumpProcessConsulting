@@ -1,6 +1,5 @@
 Teste Prático High Jump Process Consulting
 
-SOBRE:
 Projeto de cadastro de pessoas
 
 RODAR BANCO DE DADOS E API
